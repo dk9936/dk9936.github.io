@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplink",
+    "package_name": "com.maxwellindiajaipur.mijprepaidmeter",
     "sha256_cert_fingerprints":
     ["66:B3:B9:46:88:17:3C:08:F4:E0:7B:4C:33:65:B9:7A:82:50:A0:3F:5A:D0:F2:44:35:E6:45:A1:DA:21:33:0A"]
   }

@@ -1,2 +1,2 @@
-*.json text/plain
-.well-known/assetlinks.json application/json
+*.json text eol=lf
+.well-known/assetlinks.json text eol=lf

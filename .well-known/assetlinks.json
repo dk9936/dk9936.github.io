@@ -3,7 +3,8 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.maxwellindiajaipur.mijprepaidmeter",
-    "sha256_cert_fingerprints":
-    ["66:B3:B9:46:88:17:3C:08:F4:E0:7B:4C:33:65:B9:7A:82:50:A0:3F:5A:D0:F2:44:35:E6:45:A1:DA:21:33:0A"]
+    "sha256_cert_fingerprints": [
+      "0B:7E:06:91:1D:DD:C6:1D:8D:88:9C:80:21:50:93:86:E7:7A:75:70:AB:DA:F9:EF:1D:80:A8:30:91:2B:50:AF"
+    ]
   }
 }]

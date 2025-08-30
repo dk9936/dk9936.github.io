@@ -1,0 +1,2 @@
+*.json text/plain
+.well-known/assetlinks.json application/json

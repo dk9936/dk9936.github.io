@@ -1,10 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.maxwellindiajaipur.mijprepaidmeter",
-    "sha256_cert_fingerprints": [
-            "0C:E3:9A:39:F3:88:41:9F:A7:80:CE:EE:1B:B9:F4:33:3A:EA:0E:31:2B:A1:F3:12:6D:C8:6A:91:F0:15:30:BF"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.maxwellindiajaipur.mijprepaidmeter",
+      "sha256_cert_fingerprints": [
+        "0B:7E:06:91:1D:DD:C6:1D:8D:88:9C:80:21:50:93:86:E7:7A:75:70:AB:DA:F9:EF:1D:80:A8:30:91:2B:50:AF"
+      ]
+    }
   }
-}]
+]
